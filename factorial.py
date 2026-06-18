@@ -10,3 +10,6 @@ number1 = int(input("Enter another number: "))
 number2 = int(input("Enter another number: "))
 result = number1 + number2
 print("The sum of", number1, "and", number2, "is", result)
+
+result2 = number1 - number2
+print("The difference of", number1, "and", number2, "is", result2)
